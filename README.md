@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI for the Whisper AI API
 - N8N.io for webhook functionality
-- Microsoft Teams for enabling programmatic meeting access 
+- Microsoft Teams for enabling programmatic meeting access
